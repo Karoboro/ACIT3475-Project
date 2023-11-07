@@ -125,3 +125,6 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 # For Email Password Reset
 EMAIL_BACKEND = "django.core.mail.backends.console.EmailBackend"
+
+import os
+STATIC_ROOT = BASE_DIR / 'staticfiles'
