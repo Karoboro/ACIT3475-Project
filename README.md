@@ -22,9 +22,9 @@
 ## Clone our project
 In the same folder as above: 
 
-`git clone https://github.com/Karoboro/TravelPlanner.git`
+`git clone https://github.com/Karoboro/ACIT3475-Project.git`
 
-`cd TravelPlanner`
+`cd .\ACIT3475-Project\`
 
 
 ## Build the database, create superusers
